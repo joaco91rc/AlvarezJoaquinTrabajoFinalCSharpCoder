@@ -1,0 +1,17 @@
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

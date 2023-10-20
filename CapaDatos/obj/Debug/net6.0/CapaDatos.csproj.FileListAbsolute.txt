@@ -1,0 +1,15 @@
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\jaalvarez\Documents\Joaco\SistemaGestion\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

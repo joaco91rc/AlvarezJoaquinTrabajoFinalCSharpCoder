@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3BD96ssZPmuYeQ+MF2/2cxqJk+UnPmXMt6OjrFFr4R9dKPnjmNX+3+ClgC5dNXhfk+SWIFUIbhvOT49fdI2xIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaalvarez\\Documents\\Joaco\\SistemaGestion\\CapaEntidades\\CapaEntidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaalvarez\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\jaalvarez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\jaalvarez\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-rc.2.23479.6\\microsoft.extensions.primitives.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\jaalvarez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
